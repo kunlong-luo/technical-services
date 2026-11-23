@@ -23,6 +23,15 @@
 6. **[CHANNELS-AND-SITE.md](CHANNELS-AND-SITE.md)**：闲鱼、国内/海外专业平台、GitHub 和独立站的获客策略；不是已上线的交易入口。
 7. **[templates/PRODUCT-CARD-TEMPLATE.md](templates/PRODUCT-CARD-TEMPLATE.md)**：后续为 PK 商品编写可验收详情页时使用的统一格式；当前仅有模板。
 
+## 首批 4 项商品卡（B 阶段，待审核）
+
+- [PK-02 电脑软件远程诊断](products/PK-02.md)：快速判断、标准诊断、深度排查。
+- [PK-03 Windows/Linux 开发环境搭建](products/PK-03.md)：单技术栈、双技术栈、组合开发环境。
+- [PK-05 网站报错诊断及修复](products/PK-05.md)：诊断和明确故障修复分别计价。
+- [PK-04 企业官网制作与上线](products/PK-04.md)：单页、三页、较完整的企业展示站。
+
+**上述均为商业草案、还未经过商品实操和账号类目核查；可向客户解释服务范围但不能宣称已经挂牌或有真实成交。** 其余 PK 商品继续保留在 [主目录](CUSTOMER-PRODUCTS.md) 中。
+
 ## 产品与技术如何关联
 
 PK-04 企业官网 = 设计/页面/联系表单/域名与部署/验收；其内部可组合 WEB、BE、OPS 组件。  
