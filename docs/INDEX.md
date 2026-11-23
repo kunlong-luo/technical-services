@@ -21,6 +21,7 @@
 4. **[AI-ASSISTED-DELIVERY.md](AI-ASSISTED-DELIVERY.md)**：AI 工具参与开发时的客户授权、人工审查与交付责任。
 5. **[services/THINGSBOARD.md](services/THINGSBOARD.md)**：ThingsBoard 特殊许可、网关、设备/数据接入候选服务；须按实际版本和规模再次核验。
 6. **[CHANNELS-AND-SITE.md](CHANNELS-AND-SITE.md)**：闲鱼、国内/海外专业平台、GitHub 和独立站的获客策略；不是已上线的交易入口。
+7. **[templates/PRODUCT-CARD-TEMPLATE.md](templates/PRODUCT-CARD-TEMPLATE.md)**：后续为 PK 商品编写可验收详情页时使用的统一格式；当前仅有模板。
 
 ## 产品与技术如何关联
 
