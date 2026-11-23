@@ -31,6 +31,7 @@
 ## 查看文档
 
 - **[公开文档总索引](docs/INDEX.md)**：哪个文档负责什么、如何阅读。
+- **[客户商品卡模板](docs/templates/PRODUCT-CARD-TEMPLATE.md)**：下一阶段整理具体可售套餐时使用。
 - **[客户完整服务商品](docs/CUSTOMER-PRODUCTS.md)**：以客户结果为中心的 PK-01～PK-12。
 - **[专业技术能力清单](docs/SERVICE-CATALOG.md)**：开发者专项能力。
 - **[服务边界与风险](docs/SERVICE-BOUNDARIES.md)**：授权、交付与风险分级。
